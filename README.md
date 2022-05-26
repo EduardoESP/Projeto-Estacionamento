@@ -7,12 +7,12 @@ DIO-Projeto em TypeScript
 
  ## Aula 2 
 
- cirado o index.html
- criado script.ts
+ criando o index.html
+ criando script.ts
 
 Criado a parte de formulário.
 
- transpilado usando o mesmo comando para criar 
+ transpilando usando o mesmo comando para criar 
  o arquivo tsconfig mas sem o --init:
   npx -p typescript tsc
 
